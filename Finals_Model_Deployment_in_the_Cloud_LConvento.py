@@ -32,8 +32,6 @@ import numpy as np
 import pandas as pd
 import os
 import re
-import nltk
-from nltk.corpus import stopwords
 from keras.models import load_model
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report, confusion_matrix
