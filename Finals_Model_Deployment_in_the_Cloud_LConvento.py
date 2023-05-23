@@ -39,7 +39,7 @@ from tensorflow.keras.layers import Embedding, LSTM, Dense
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 
-model_path="/Users/leiannconvento/Documents/ADS/Finals/disaster_tweets_model.h5"
+model_path="disaster_tweets_model.h5"
 model=load_model(model_path)
 
 # Function to process the user input
