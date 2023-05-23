@@ -2,3 +2,4 @@ streamlit==1.22.0
 tensorflow==2.12.0
 requests==2.31.0
 opencv-python==4.7.0.72
+scikit-learn
