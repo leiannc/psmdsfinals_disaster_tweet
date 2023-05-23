@@ -1,1 +1,9 @@
-﻿pandasnumpyopencv-python-headlessstreamlittensorflowsplit-folderssklearnrequests
+pandas
+numpy
+opencv-python-headless
+streamlit
+tensorflow
+split-folders
+sklearn
+scikit-learn
+requests
